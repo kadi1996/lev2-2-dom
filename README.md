@@ -1,5 +1,5 @@
 # lev2-2-dom
 
-JS 
+HTML/JS 
 
 https://kadi1996.github.io/lev2-2-dom/
